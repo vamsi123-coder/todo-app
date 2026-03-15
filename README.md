@@ -40,7 +40,7 @@ project-folder
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/vamsi123-coder/todo-list.git
 ```
 
 2. Open the project folder
